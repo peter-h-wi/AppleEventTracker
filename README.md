@@ -1,6 +1,6 @@
 # AppleEventTracker
-WatchOS Application to track Apple Event\n
-On D-Day, it shows the QR Code to watch Apple Event!
+##WatchOS Application to track Apple Event
+<br><br>On D-Day, it shows the QR Code to watch Apple Event!
 <br>Developed by Peter Wi.
 
 ## Screenshots
